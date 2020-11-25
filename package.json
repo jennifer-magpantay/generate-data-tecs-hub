@@ -1,0 +1,19 @@
+{
+  "name": "generate-data-tecs-hub",
+  "version": "1.0.0",
+  "description": "Codigo para gerar uma nova tabela json para consulta da plataforma Tecs Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jennifer-magpantay"
+  },
+  "keywords": [
+    "JS",
+    "json"
+  ],
+  "author": "Jennifer Magpantay",
+  "license": "ISC"
+}
